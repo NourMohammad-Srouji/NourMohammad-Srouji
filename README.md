@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<!--
-**NourMohammad-Srouji/NourMohammad-Srouji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm NourMohammad Srouji</h1>
+<h3 align="center">A full stack developer student from Lebanon</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nourmohammad-srouji&label=Profile%20views&color=0e75b6&style=flat" alt="nourmohammad-srouji" /> </p>
 
-- ⚡ Fun fact: ...<h1 align="center">Hi 👋, I'm NourMohammad Srouji</h1>
-<h3 align="center">A passionate frontend developer from Lebanon</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourmohammad-srouji" alt="nourmohammad-srouji" /></a> </p>
 
 - 🌱 I’m currently learning **python, javascript, sql, php, html, css**
 
@@ -24,4 +24,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourmohammad-srouji&show_icons=true&locale=en&layout=compact" alt="nourmohammad-srouji" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourmohammad-srouji&show_icons=true&locale=en" alt="nourmohammad-srouji" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourmohammad-srouji&" alt="nourmohammad-srouji" /></p>
+
